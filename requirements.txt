@@ -4,4 +4,5 @@ pint>=0.24.4
 floret
 fastapi
 uvicorn
-ingredient-parser
+git+https://github.com/strangetom/ingredient-parser.git
+
